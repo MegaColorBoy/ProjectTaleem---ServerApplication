@@ -1,0 +1,15 @@
+C:\Pres_Proto\DBCreator\DBCreator\bin\Debug\DBCreator.exe.config
+C:\Pres_Proto\DBCreator\DBCreator\bin\Debug\DBCreator.exe
+C:\Pres_Proto\DBCreator\DBCreator\bin\Debug\DBCreator.pdb
+C:\Pres_Proto\DBCreator\DBCreator\bin\Debug\MetroFramework.pdb
+C:\Pres_Proto\DBCreator\DBCreator\bin\Debug\MetroFramework.Design.pdb
+C:\Pres_Proto\DBCreator\DBCreator\bin\Debug\MetroFramework.Fonts.pdb
+C:\Pres_Proto\DBCreator\DBCreator\obj\Debug\DBCreator.csprojResolveAssemblyReference.cache
+C:\Pres_Proto\DBCreator\DBCreator\obj\Debug\DBCreator.MainForm.resources
+C:\Pres_Proto\DBCreator\DBCreator\obj\Debug\DBCreator.Properties.Resources.resources
+C:\Pres_Proto\DBCreator\DBCreator\obj\Debug\DBCreator.csproj.GenerateResource.Cache
+C:\Pres_Proto\DBCreator\DBCreator\obj\Debug\DBCreator.exe
+C:\Pres_Proto\DBCreator\DBCreator\obj\Debug\DBCreator.pdb
+C:\Pres_Proto\DBCreator\DBCreator\bin\Debug\MySqlBackup.dll
+C:\Pres_Proto\DBCreator\DBCreator\obj\Debug\DBCreator.modifyDB.resources
+C:\Pres_Proto\DBCreator\DBCreator\obj\Debug\DBCreator.AEDTeacherProfile.resources
